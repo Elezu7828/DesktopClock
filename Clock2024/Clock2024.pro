@@ -26,9 +26,9 @@ CONFIG += c++11
 
 SOURCES += \
         main.cpp \
-    mainwindow.cpp \
     mechanical.cpp \
-    digital.cpp
+    digital.cpp \
+    clock2024.cpp
 
 HEADERS += \
         clock2024.h \
